@@ -33,14 +33,16 @@ Ambos robots tienen la misma capacidad de carga.
 
 El IRB 140 es más liviano, lo que puede ser ventajoso para ciertos tipos de instalación.
 
+##  :house: Posiciones de home 
+
+
+
+
+
+
 # 📚 Fuentes
 Motoman MH6 - Ficha técnica (Yaskawa)
 
 ABB IRB 140 - Ficha técnica (ABB Robotics)
 
-
-https://github.com/user-attachments/assets/8a78588d-df9d-4163-a974-b3e2bbc8fadf
-
-
-[![](https://markdown-videos.deta.dev/youtube/3-St6qd6CKA)]([https://youtu.be/3-St6qd6CKA](https://youtu.be/3-St6qd6CKA?si=9Sj8o-NvJkeAbDMP))
 
