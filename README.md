@@ -40,17 +40,12 @@ El IRB 140 es más liviano, lo que puede ser ventajoso para ciertos tipos de ins
 El robot tiene dos posiciones de home. la primera es: 
 
 <p align="center">
-  <img src="ruta/a/tu/imagen.png" alt="Descripción de la imagen" width="500">
+  <img src="./imagenes/home 1.jpeg" width="500"/>
 </p>
-  
-![home 1](https://github.com/user-attachments/assets/b6d21c19-f44e-4ea4-9fea-57a22010bca5)
 
 <p align="center">
-  <img src="./Imagenes/calibracion.jpeg" width="200"/>
+  <img src="imagenes/hhome 1 coordenadas.jpeg" width="500"/>
 </p>
-
-
-![hhome 1 coordenadas](https://github.com/user-attachments/assets/24b386e5-9d1f-49b7-94ef-bd3a216409ec)
 
 Esta podria ser mejor para: 
 
@@ -60,9 +55,13 @@ Facilitar un inicio rápido de tareas como recoger piezas, cargar máquinas, o h
 
 ### Home 2
 
-![home 2](https://github.com/user-attachments/assets/8152c068-2c84-41aa-bf38-47e4c422f5b5)
+<p align="center">
+  <img src="imagenes/home 2.jpeg" width="400"/>
+</p>
 
-![home2coordenadas](https://github.com/user-attachments/assets/e304d610-2fd2-415f-a6e8-22a63b41996e)
+<p align="center">
+  <img src="imagenes/home2coordenadas.jpeg" width="500"/>
+</p>
 
 Esta posición puede ser mejor para mantenimiento, arranque seguro o parada de emergencia:  
 → Es más compacta, reduce el riesgo de golpes y facilita reinicios seguros.
