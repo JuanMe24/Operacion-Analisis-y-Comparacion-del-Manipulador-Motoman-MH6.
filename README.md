@@ -107,7 +107,9 @@ RoboDK puede:
 * **Leer la posición actual** del robot para sincronizar la simulación.
 * Permitir el **movimiento interactivo (jogging virtual)** del robot físico, útil para calibración o posicionamiento inicial.
 
+## :snake: Código Python 
 
+[El codigo desarrolado en python](Simulación/Lemniscata.py)
 
 # 📚 Fuentes
 Motoman MH6 - Ficha técnica (Yaskawa)
