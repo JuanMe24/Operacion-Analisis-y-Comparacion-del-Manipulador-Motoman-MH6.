@@ -2,10 +2,13 @@
 ## ✍️ Autores
 Laboratorio 3 - Comparativa de robots industriales  
 Juan David Meza Criollo  
-Andrés Mauricio Avilan
-## Tabla comparativa
+Andrés Mauricio Avilan  
+
+https://github.com/user-attachments/assets/13ff927e-c944-4173-a373-e91d98104c23
 
 Este documento presenta un cuadro comparativo de las características técnicas más relevantes de los robots industriales Motoman MH6 y ABB IRB 140, incluyendo especificaciones clave como carga máxima, alcance, velocidad, grados de libertad y aplicaciones típicas.
+
+## Tabla comparativa  
 
 | Característica           | **Motoman MH6**                     | **ABB IRB 140**                    |
 | ------------------------ | ----------------------------------- | ---------------------------------- |
@@ -34,4 +37,7 @@ El IRB 140 es más liviano, lo que puede ser ventajoso para ciertos tipos de ins
 Motoman MH6 - Ficha técnica (Yaskawa)
 
 ABB IRB 140 - Ficha técnica (ABB Robotics)
+
+
+https://github.com/user-attachments/assets/8a78588d-df9d-4163-a974-b3e2bbc8fadf
 
