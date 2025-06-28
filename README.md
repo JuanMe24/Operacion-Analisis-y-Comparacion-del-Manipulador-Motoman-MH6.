@@ -1,6 +1,7 @@
 # 🤖 Motoman MH6 vs ABB IRB 140
 ## ✍️ Autores
-Juan David Meza Criollo
+Juan David Meza Criollo  
+
 Andrés Mauricio Avilan
 Laboratorio 3 - Comparativa de robots industriales
 ## Tabla comparativa
