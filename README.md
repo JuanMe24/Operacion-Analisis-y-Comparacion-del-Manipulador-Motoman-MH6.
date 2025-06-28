@@ -41,3 +41,6 @@ ABB IRB 140 - Ficha técnica (ABB Robotics)
 
 https://github.com/user-attachments/assets/8a78588d-df9d-4163-a974-b3e2bbc8fadf
 
+
+[![](https://markdown-videos.deta.dev/youtube/3-St6qd6CKA)]([https://youtu.be/3-St6qd6CKA](https://youtu.be/3-St6qd6CKA?si=9Sj8o-NvJkeAbDMP))
+
