@@ -107,9 +107,50 @@ RoboDK puede:
 * **Leer la posición actual** del robot para sincronizar la simulación.
 * Permitir el **movimiento interactivo (jogging virtual)** del robot físico, útil para calibración o posicionamiento inicial.
 
+## :collision: RobotStudio Vs RobotDk
+
+Ambas son potentes herramientas de simulación y programación de robots, pero con enfoques y ecosistemas distintos.
+
+### RoboDK
+
+| Aspecto         | Descripción                                                                       |
+| :-------------- | :-------------------------------------------------------------------------------- |
+| **Ventajas** | - **Multi-marca:** Soporta más de 500 robots de diversas marcas (Motoman, KUKA, Fanuc, ABB, Universal Robots, etc.). <br> - **Coste:** Generalmente más accesible y con opciones de licencia flexibles. <br> - **Facilidad de Uso:** Interfaz intuitiva y curva de aprendizaje relativamente rápida para tareas básicas. <br> - **Programación Offline (OLP):** Excelente para generar código nativo para múltiples controladores. <br> - **API Extensa:** Permite automatización y personalización avanzada con Python (y otros lenguajes). |
+| **Limitaciones** | - **Funcionalidades Específicas de Marca:** Puede no tener todas las características avanzadas o herramientas de depuración profundas que ofrece el software nativo de una marca (ej. ABB). <br> - **Hardware de Robot:** Depende de drivers genéricos; la integración directa con ciertas características de hardware propietario puede ser más limitada. |
+| **Aplicaciones** | - Empresas con robots de **diferentes marcas**. <br> - **Integradores de sistemas** y consultores. <br> - **Educación e investigación** debido a su versatilidad y coste. <br> - Prototipado rápido y validación de conceptos robóticos. |
+
+---
+
+### RobotStudio
+
+| Aspecto         | Descripción                                                                       |
+| :-------------- | :-------------------------------------------------------------------------------- |
+| **Ventajas** | - **Integración Profunda con ABB:** Es el software propietario de ABB, ofreciendo la integración más completa con robots, controladores (IRC5/OmniCore) y tecnologías ABB (SafeMove, MultiMove, etc.). <br> - **Simulación Precisa:** Muy alta fidelidad en la simulación del comportamiento de los robots ABB y sus capacidades. <br> - **Depuración Avanzada:** Herramientas de depuración potentes que replican el controlador real (Virtual Controller). <br> - **Add-ins y Librerías ABB:** Acceso a una vasta colección de librerías, Add-ins y soluciones específicas de ABB. |
+| **Limitaciones** | - **Exclusivo de ABB:** Solo compatible con robots ABB. No puedes simular ni programar un Motoman o KUKA con RobotStudio. <br> - **Coste:** Generalmente más caro, especialmente para funcionalidades avanzadas. <br> - **Curva de Aprendizaje:** Puede ser más pronunciada debido a la profundidad de sus funcionalidades y su enfoque en el ecosistema ABB. |
+| **Aplicaciones** | - Empresas que operan **exclusivamente o predominantemente con robots ABB**. <br> - Proyectos que requieren la máxima precisión y todas las funcionalidades avanzadas de los sistemas ABB. <br> - **Fabricantes que usan ABB** en sus líneas de producción. |
+
+---
+
+## Conclusión
+
+* **Elige RoboDK** si trabajas con una variedad de marcas de robots, buscas una solución más económica y flexible, o necesitas una potente API para automatización.
+* **Elige RobotStudio** si tu ecosistema es exclusivamente ABB y necesitas la integración más profunda, simulación de alta fidelidad y acceso a todas las características propietarias de los robots ABB.
+
+
 ## :snake: Código Python 
 
 [El codigo desarrolado en python](Simulación/Lemniscata.py)
+
+## :milky_way: Simulaciones
+
+ [Ver video de la simulación](https://youtu.be/3-St6qd6CKA?si=9Sj8o-NvJkeAbDMP)
+
+ ## :muscle: 
+
+  [Ver video de la rutina](https://www.youtube.com/watch?v=nMh5yDEIieM)
+
+Por ultimo se mencióna que se logro que el robot retornara a su posición de Home al terminar la rutina. 
+
 
 # 📚 Fuentes
 Motoman MH6 - Ficha técnica (Yaskawa)
