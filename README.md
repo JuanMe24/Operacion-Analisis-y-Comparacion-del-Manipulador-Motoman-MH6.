@@ -1,4 +1,4 @@
-🤖 Comparativo Técnico: Motoman MH6 vs ABB IRB 140
+# 🤖 Motoman MH6 vs ABB IRB 140
 Este documento presenta un cuadro comparativo de las características técnicas más relevantes de los robots industriales Motoman MH6 y ABB IRB 140, incluyendo especificaciones clave como carga máxima, alcance, velocidad, grados de libertad y aplicaciones típicas.
 
 | Característica           | **Motoman MH6**                     | **ABB IRB 140**                    |
@@ -16,11 +16,11 @@ Este documento presenta un cuadro comparativo de las características técnicas 
 | **Controlador**          | DX100 / DX200                       | IRC5 Compact                       |
 
 📌 Observaciones
-El Motoman MH6 tiene un mayor alcance, lo cual lo hace ideal para operaciones de mayor rango.
+El Motoman MH6 tiene un mayor alcance, adicionalmente el modelo del laboratorio posee 8 grados de libertad, sin embargo el septimo y el octavo estan sin utilizar. 
 
-El IRB 140 presenta una mejor repetibilidad, lo cual es crucial en tareas de alta precisión.
+El IRB 140 presenta una mejor repetibilidad, lo cual es crucial en tareas de alta precisión, por ejemplo el anterior laboratorio 
 
-Ambos robots tienen la misma capacidad de carga y grados de libertad.
+Ambos robots tienen la misma capacidad de carga.
 
 El IRB 140 es más liviano, lo que puede ser ventajoso para ciertos tipos de instalación.
 
