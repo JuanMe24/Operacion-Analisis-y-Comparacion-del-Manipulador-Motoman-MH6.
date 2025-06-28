@@ -145,7 +145,7 @@ Ambas son potentes herramientas de simulación y programación de robots, pero c
 
  [Ver video de la simulación](https://youtu.be/3-St6qd6CKA?si=9Sj8o-NvJkeAbDMP)
 
- ## :muscle: 
+ ## :muscle: Rutina real descrita en el laboratorio
 
   [Ver video de la rutina](https://www.youtube.com/watch?v=nMh5yDEIieM)
 
